@@ -1,0 +1,24 @@
+{
+  "name": "caliper-ember",
+  "version": "0.0.3",
+  "authors": [
+    "caliper <team@caliper.io>"
+  ],
+  "description": "caliper ember plugin",
+  "keywords": [
+    "caliper",
+    "ember",
+    "monitoring",
+    "analytics"
+  ],
+  "license": "MIT",
+  "homepage": "http://caliper.io",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}
